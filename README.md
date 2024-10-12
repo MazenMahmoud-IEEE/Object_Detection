@@ -53,7 +53,7 @@ pip install torch torchvision opencv-python pillow matplotlib numpy
 
 The model is capable of detecting objects such as people, cars, animals, etc. Here is an example of a detected object with bounding boxes:
 
-![Object Detection Example](example_image.png)
+![Example 1](‪C:\Users\mazen\OneDrive\Pictures\car.jpg)
 
 ## Notes
 
