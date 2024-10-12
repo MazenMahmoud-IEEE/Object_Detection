@@ -54,13 +54,13 @@ pip install torch torchvision opencv-python pillow matplotlib numpy
 The model is capable of detecting objects such as people, cars, animals, etc. Here is an example of a detected object with bounding boxes:
 
 ![Example 1](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)
-![Example 2](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/340b05c9-50fa-4021-bbbc-5a5096adc622.png)
-![Example 3](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/50edd535-d5af-48d5-8c01-43511af626f1.png)
-![Example 4](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/5bbba81e-246f-49c2-80f0-8e9e08b6b650.png)
-![Example 5](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/8abc7884-6167-4bce-9080-c3c89980efb5.png)
-![Example 6](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/9c2620a2-20e4-401a-af1a-66a2b2183ace.png)
-![Example 7](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/a148e412-c599-4bb5-85ff-6db8ec9c6504.png)
-![Example 8](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/160e38b3-2406-45b7-a1e9-f25e4d7c21a6.png)](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/e5d0009d-da0e-4842-b142-a3cbe04745e6.png)
+![Example 2](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/340b05c9-50fa-4021-bbbc-5a5096adc622.png)
+![Example 3](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/50edd535-d5af-48d5-8c01-43511af626f1.png)
+![Example 4](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/5bbba81e-246f-49c2-80f0-8e9e08b6b650.png)
+![Example 5](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/8abc7884-6167-4bce-9080-c3c89980efb5.png)
+![Example 6](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/9c2620a2-20e4-401a-af1a-66a2b2183ace.png)
+![Example 7](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/a148e412-c599-4bb5-85ff-6db8ec9c6504.png)
+![Example 8](https://github.com/MazenMahmoud-IEEE/Object_Detection/blob/main/Results/e5d0009d-da0e-4842-b142-a3cbe04745e6.png)
 
 ## Notes
 
